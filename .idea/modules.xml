@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractLearn/AbstractLearn.iml" filepath="$PROJECT_DIR$/AbstractLearn/AbstractLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssertionLearn/AssertionLearn.iml" filepath="$PROJECT_DIR$/AssertionLearn/AssertionLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchLearn/BinarySearchLearn.iml" filepath="$PROJECT_DIR$/BinarySearchLearn/BinarySearchLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSortLearn/BubbleSortLearn.iml" filepath="$PROJECT_DIR$/BubbleSortLearn/BubbleSortLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Firm/Firm.iml" filepath="$PROJECT_DIR$/Firm/Firm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceLearn/InterfaceLearn.iml" filepath="$PROJECT_DIR$/InterfaceLearn/InterfaceLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequentialSearchLearn/SequentialSearchLearn.iml" filepath="$PROJECT_DIR$/SequentialSearchLearn/SequentialSearchLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreadLearn/TreadLearn.iml" filepath="$PROJECT_DIR$/TreadLearn/TreadLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_coding.iml" filepath="$PROJECT_DIR$/java_coding.iml" />
+    </modules>
+  </component>
+</project>
