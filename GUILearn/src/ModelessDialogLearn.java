@@ -3,9 +3,9 @@ import java.awt.Frame;
 
 public class ModelessDialogLearn extends Frame {
     public ModelessDialogLearn(){
-        super("다이얼로그 테스트");
+        super("dialog test");
 
-        Dialog d = new Dialog(this,"모덜리스 다이얼로그");
+        Dialog d = new Dialog(this,"modeless dialog");
         setBounds(0,0,400,400);
         setVisible(true);
         d.setBounds(100,100,200,200);

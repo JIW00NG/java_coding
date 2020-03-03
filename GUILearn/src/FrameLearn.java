@@ -4,7 +4,7 @@ import java.awt.Frame;
 public class FrameLearn {
     public static void main(String[] args) {
         Frame f= new Frame();
-        f.setTitle("첫 번째 프레임");
+        f.setTitle("first frame");
         f.setBounds(100,100,300,300);
         f.setVisible(true);
     }
@@ -13,7 +13,7 @@ public class FrameLearn {
 /*상속 이용 o*/
 class FrameLearn extends Frame{
     public FrameLearn(){
-        super("두번째 프레임");
+        super("second frame");
         setBounds(100,100,300,300);
         setVisible(true);
     }
